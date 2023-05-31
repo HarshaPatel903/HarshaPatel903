@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HarshaPatel903
-- 👀 I’m interested in Webdevelopment,and intrested learn more
-- 🌱 I’m currently learning PHP and I know HTML,CSS,Python(intermidate),same goes for JAVA 
-- 💞️ I’m looking to collaborate on Somthing i know and also to learn somthing new
+- 👋 Hi, I’m @Harsha Patel
+- 👀 I’m interested in Web development,and trying to learn more it in
+- 🌱 I’m currently learning PHP, React Native and I know HTML, CSS, Java Script, Python(intermidate), same goes for JAVA 
+- 💞️ I’m looking to collaborate on Something i know and also to learn something new
 - 📫 How to reach me my email address is - harshapatel903@gmail.com 
 - Phone no - +91-8971303971 
 
